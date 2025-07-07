@@ -1,2 +1,6 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1MGzOt7ubUh3gu7zhZIPb7R7dyRzG371j
+  /: 
+  url: "https://author-p123152-e1209805.adobeaemcloud.com/bin/franklin.delivery/shilpatty/mysite/main"
+  type: "markup"
+  suffic: ".html"
+  
