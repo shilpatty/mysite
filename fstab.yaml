@@ -2,5 +2,5 @@ mountpoints:
   /: 
   url: "https://author-p123152-e1209805.adobeaemcloud.com/bin/franklin.delivery/shilpatty/mysite/main"
   type: "markup"
-  suffic: ".html"
+  suffix: ".html"
   
